@@ -2,7 +2,8 @@
 
 The goal of this personal project was to create a Parking Garage Class. Further description of this project can be found below.
 
-Your parking gargage class should have the following methods:
+The parking gargage class should have the following methods:
+
 - takeTicket
    - This should decrease the amount of tickets available by 1
    - This should decrease the amount of parkingSpaces available by 1
